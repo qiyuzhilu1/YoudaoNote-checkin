@@ -8,7 +8,7 @@
 
 ### 1 fork 这个仓库
 
-点击右上角的 fork。
+点击右上角的 fork。。
 
 ### 2 设置用户名（USERNAME）和密码（PASSWORD）
 
